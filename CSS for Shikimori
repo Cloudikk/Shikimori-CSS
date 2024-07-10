@@ -1,13 +1,13 @@
 .l-page {
-    background-color: rgba(243, 243, 243, 0.9); /* 10% transparent background */
+    background-color: rgba(243, 243, 243, 0.88); /* 12% transparent background */
 }
 .b-ajax:before {
-    background: rgba(243, 243, 243, 0.9); /* 10% transparent background */
+    background: rgba(243, 243, 243, 0.88); /* 12% transparent background */
 }
 /* AUTO=sticky_menu */ @media screen and (min-width: 1025px) { .l-top_menu-v2 { position: sticky; top: 0; } .l-top_menu-v2 .active .submenu { max-height: calc(100vh - var(--top-menu-height)); overflow-y: auto; } 
 }
 body {
-background-image: url(https://w0.peakpx.com/wallpaper/920/85/HD-wallpaper-hatsune-miku-blue-hair-manga-vocaloid.jpg);
+background-image: url(https://www.pixel4k.com/wp-content/uploads/2018/11/nao-tomori-charlotte-art-4k_1541975954.jpg.webp);
     background-size: cover; /* Ensures the image covers the entire background */
     background-attachment: fixed; /* Makes the background image fixed while scrolling */
     background-repeat: no-repeat; /* Prevents the image from repeating */
