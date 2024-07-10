@@ -1,0 +1,10 @@
+body {
+background-image: url(https://w0.peakpx.com/wallpaper/920/85/HD-wallpaper-hatsune-miku-blue-hair-manga-vocaloid.jpg);
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-attachment: fixed; /* Makes the background image fixed while scrolling */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the background image */
+    background-color: #FFF8F0; /* Fallback color in case the image fails to load */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FF1493;
+}
