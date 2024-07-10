@@ -7,7 +7,7 @@
 /* AUTO=sticky_menu */ @media screen and (min-width: 1025px) { .l-top_menu-v2 { position: sticky; top: 0; } .l-top_menu-v2 .active .submenu { max-height: calc(100vh - var(--top-menu-height)); overflow-y: auto; } 
 }
 body {
-background-image: url(https://a-static.besthdwallpaper.com/charlotte-nao-tomori-wallpaper-2048x1152-57281_49.jpg);
+background-image: url(file:///C:/Users/Eleve/Pictures/Saved%20Pictures/image.webp);
     background-size: cover; /* Ensures the image covers the entire background */
     background-attachment: fixed; /* Makes the background image fixed while scrolling */
     background-repeat: no-repeat; /* Prevents the image from repeating */
