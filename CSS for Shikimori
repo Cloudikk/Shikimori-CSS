@@ -1,3 +1,13 @@
+.l-page {
+    background-color: rgba(243, 243, 243, 0.7); /* 30% transparent background */
+}
+
+.b-ajax:before {
+    background: rgba(243, 243, 243, 0.7); /* 30% transparent background */
+}
+
+/* AUTO=sticky_menu */ @media screen and (min-width: 1025px) { .l-top_menu-v2 { position: sticky; top: 0; } .l-top_menu-v2 .active .submenu { max-height: calc(100vh - var(--top-menu-height)); overflow-y: auto; } }
+
 body {
 background-image: url(https://w0.peakpx.com/wallpaper/920/85/HD-wallpaper-hatsune-miku-blue-hair-manga-vocaloid.jpg);
     background-size: cover; /* Ensures the image covers the entire background */
